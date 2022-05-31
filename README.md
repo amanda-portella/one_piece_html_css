@@ -1,6 +1,6 @@
 # Projeto baseado na formação HTML e CSS da Alura
 
-Esse repositório contém projetos feitos em cursos ou por mim baseados nos cursos da formação HTML e CSS da Alura
+  Esse projeto foi baseado na Barbearia Alura, projeto oficial do Curso de HTML e CSS, e foi implementado os conhecimentos adquiridos nos outros cursos da formação.
 
 - ## OnePiece
   
