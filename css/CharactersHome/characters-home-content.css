@@ -1,19 +1,4 @@
 .characters-home__content {
-    text-align: center;
-}
-
-@media screen and (min-width: 768px) {
-
-    .characters-home__content {
-		display: flex;
-		justify-content: space-around;
-	}
-}
-
-@media screen and (min-width: 1024px) {
-	
-    .characters-home__content {
-		display: flex;
-		justify-content: center;
-	}
+	display: flex;
+	justify-content: center;
 }
