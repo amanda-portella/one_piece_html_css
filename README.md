@@ -1,4 +1,4 @@
-# Repositório para os projetos em HTML_CSS
+# Projeto baseado na formação HTML e CSS da Alura
 
 Esse repositório contém projetos feitos em cursos ou por mim baseados nos cursos da formação HTML e CSS da Alura
 
