@@ -1,6 +1,8 @@
 # Projeto baseado na formação HTML e CSS da Alura
 
   Esse projeto foi baseado na Barbearia Alura, projeto oficial do Curso de HTML e CSS, e foi implementado os conhecimentos adquiridos nos outros cursos da formação.
+  
+  Link do projeto: https://onepiece-first.vercel.app/index.html
 
 - ## OnePiece
   
