@@ -34,6 +34,3 @@
   -  ``CSS 3``
   -  ``Métodologia BEM``
   -  ``Métodologia Atomic Design``
-  
- ### Vídeo do Projeto
-  ![Vídeo do projeto](https://i.imgur.com/UhxdDIR.mp4)
