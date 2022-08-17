@@ -6,7 +6,7 @@
   Esse projeto foi baseado na Barbearia Alura, projeto oficial do Curso de HTML e CSS, e foi implementado os conhecimentos adquiridos nos outros cursos da formação.
   
 ### Deploy do Projeto
-  Link: ``https://onepiece-first.vercel.app/index.html``
+  Link: https://onepiece-first.vercel.app/index.html
 
 ### :small_blue_diamond: Parte 1   
   Nessa parte resolvi escrever um pouco sobre o anime One Piece, onde eu apresento uma sinopse sobre o anime e informações do mesmo.
