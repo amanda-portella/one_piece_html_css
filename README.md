@@ -32,5 +32,5 @@
 ### :heavy_check_mark:Técnicas e tecnologias usadas
   -  ``HTML 5``
   -  ``CSS 3``
-  -  ``Métodologia BEM``
-  -  ``Métodologia Atomic Design``
+  -  ``Metodologia BEM``
+  -  ``Metodologia Atomic Design``
